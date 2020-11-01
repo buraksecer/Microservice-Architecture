@@ -1,0 +1,9 @@
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\bin\Debug\netcoreapp3.1\Basket.Entities.deps.json
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\bin\Debug\netcoreapp3.1\Basket.Entities.dll
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\bin\Debug\netcoreapp3.1\Basket.Entities.pdb
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.csprojAssemblyReference.cache
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.AssemblyInfoInputs.cache
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.AssemblyInfo.cs
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.dll
+C:\Users\SodyumNotebook\source\repos\Basket.Project\Basket.Entities\obj\Debug\netcoreapp3.1\Basket.Entities.pdb
